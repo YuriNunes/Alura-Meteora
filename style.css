@@ -1,0 +1,37 @@
+.txt-menor{
+    font-size: 0.8rem;
+}
+
+.estilos-txt{
+    width: 325px;
+}
+
+.estilo-bottom{
+    width: 45rem;
+}
+
+.cor-fonte-branca{
+    color: white;
+}
+
+.cor-botao{
+    background-color: #9353FF;
+}
+
+.cor-icone{
+    color: #DAFF01;
+    ;
+}
+
+@media screen and (max-width: 992px){
+    .coluna{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-left: 1.5rem;
+    }
+
+    .bottom-tamanho{
+        width: 325px;
+    }
+}
